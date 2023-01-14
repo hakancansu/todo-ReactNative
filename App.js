@@ -28,7 +28,7 @@ function App() {
     <SafeAreaView style={{ marginTop: 35, flex: 1 }}>
       <View style={styles.container}>
         <Text style={styles.title}>My tasks</Text>
-        <Text style={styles.subtitle}>enter your tasks in the text</Text>
+        <Text style={styles.subtitle}>enter your task in the text</Text>
         <TextInput
           style={styles.input}
           placeholder="enter your task here"
